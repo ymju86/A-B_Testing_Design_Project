@@ -7,4 +7,4 @@ Simulation:
 - Blocking (Select Treatment & Control Groups)
 - One-way ANOVA
 - Two-way ANOVA
-- Sample Size (Effect size, Power)
+- Sample Size (Effect Size, Power)
